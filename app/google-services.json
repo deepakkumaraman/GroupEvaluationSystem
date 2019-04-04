@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "671558630024",
+    "firebase_url": "https://groupevaluationsystem.firebaseio.com",
+    "project_id": "groupevaluationsystem",
+    "storage_bucket": "groupevaluationsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671558630024:android:07591f02f27743b3",
+        "android_client_info": {
+          "package_name": "com.example.groupevaluationsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGm4-YnPeAJvIuVP6IPvV65veMWzlEvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671558630024-gcacsjrraq22oot4j46p3kpgr628r0h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
